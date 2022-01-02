@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-100,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-112,
+				-33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-106,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "slash",
+			"indices": [],
+			"name": "Slice"
+		},
+		{
+			"offsets": [
+				-110,
+				24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-89,
+				14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-13,
+				45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Shogunyan",
+	"position": [
+		50,
+		360
+	],
+	"healthicon": "shogunyan",
+	"flip_x": false,
+	"healthbar_colors": [
+		105,
+		188,
+		191
+	],
+	"camera_position": [
+		-290,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}
