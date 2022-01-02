@@ -1,24 +1,48 @@
 {
-	"songs": [
-		["Spookeez", "spooky", [34, 51, 68], "Spookeez"],
-		["South", "spooky", [34, 51, 68], "South"],
-		["Monster", "monster", [34, 51, 68], "Monster"]
-	],
-
-	"weekCharacters": [
-		"spooky",
-		"bf",
-		"gf"
-	],
-	"weekBackground": "halloween",
-
-	"storyName": "Spooky Month",
-	"weekBefore": "week1",
-	"weekName": "Week 2",
-	"startUnlocked": true,
-
-	"hideStoryMode": false,
+	"storyName": "Bumpkin Trouble",
 	"hideFreeplay": false,
-	"showcutscene": false,
-	"currentcutscene": "template"
+	"weekBackground": "nomburger",
+	"weekBefore": "week1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Swirls",
+			"komasan",
+			[
+				129,
+				223,
+				249
+			]
+		],
+		[
+			"Bumpkin",
+			"komasan",
+			[
+				129,
+				223,
+				249
+			]
+		],
+		[
+			"City-licker",
+			"kj",
+			[
+				238,
+				198,
+				103
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "The Bumpkin"
 }

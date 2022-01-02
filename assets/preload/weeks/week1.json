@@ -1,24 +1,28 @@
 {
 	"songs": [
-		["Bopeebo", "dad", [146, 113, 253], "Bopeebo"],
-		["Fresh", "dad", [146, 113, 253], "Fresh"],
-		["Dad Battle", "dad", [146, 113, 253], "Dad Battle"]
+		["Charming", "jibanyan", [		229,
+		67,
+		46]],
+		["Nyantastic", "jibanyan", [		229,
+			67,
+			46]],
+		["Shogun", "shogunyan", [		105,
+			188,
+			191]]
 	],
 
 	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
+		"",
+		"",
+		""
 	],
-	"weekBackground": "stage",
+	"weekBackground": "fishplace",
 
-	"storyName": "Daddy Dearest",
+	"storyName": "Enter, Jibanyan!",
 	"weekBefore": "tutorial",
-	"weekName": "Week 1",
+	"weekName": "Lazy Ass Cat",
 	"startUnlocked": true,
 
 	"hideStoryMode": false,
-	"hideFreeplay": false,
-	"showcutscene": false,
-	"currentcutscene": "template"
+	"hideFreeplay": false
 }
